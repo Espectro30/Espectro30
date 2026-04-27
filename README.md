@@ -61,10 +61,10 @@ Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano 
 Sistema Help Desk empresarial fortificado. Mi enfoque aquí fue la **implantación de sistemas**, logrando un entorno seguro siguiendo estándares OWASP y despliegue con Docker.
 
 ### 🎓 AulaLink™
-Un sistema de gestión académica y control de acceso (Circuitos Lógicos) nacido de la necesidad de organizar el flujo estudiantil. Creado con **FastAPI y Svelte**.
+Un sistema de gestión académica y control de acceso (Circuitos Lógicos) nacido de la necesidad de organizar el flujo estudiantil. Creado con **FastAPI, Svelte y SQLite**.
 
 ### 🌸 GlowCare
-Mi proyecto para Lenguaje de Programación 2. Una plataforma de gestión para clínicas estéticas que utiliza **Django y React 19**, enfocada en una experiencia de usuario (UX) limpia y profesional.
+Mi proyecto para Lenguaje de Programación 2. Una plataforma de gestión para clínicas estéticas que utiliza **Django, React 19 y SQLite**, enfocada en una experiencia de usuario (UX) limpia y profesional.
 
 ---
 
