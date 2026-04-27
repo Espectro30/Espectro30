@@ -86,5 +86,7 @@ Mi proyecto para Lenguaje de Programación 2. Una plataforma de gestión para cl
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Espectro30&style=flat-square&color=orange&label=PROFILE+VIEWS" alt="espectro30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmcyeG5reG94bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/vO9h61OaVDF0JvUatK/giphy.gif" width="50" alt="Gecko Mascot" />
+  <br/>
+  <sub><i>"Solo un Gecko navegando en el pantano..."</i></sub>
 </div>
