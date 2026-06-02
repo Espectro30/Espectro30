@@ -7,7 +7,7 @@
 ### 👨‍💻 Engineering Student | Creative Orchestrator | Design & Ingenuity
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa;Dise%C3%B1o+y+Creatividad;Orquestando+con+IA;Aprendizaje+Continuo..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingenier%C3%ADa;Dise%C3%B1o+y+Creatividad;Orquestando+ideas" alt="Typing SVG" />
   </a>
 
 </div>
@@ -16,7 +16,7 @@
 
 ## 🦎 Sobre mí: El Gecko en el Pantano
 
-Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano lleno de grandes reptiles, mi fuerte no es la fuerza bruta del código puro, sino la **creatividad, la adaptabilidad y el diseño**. Creo fielmente en la _"Tregua del Agua"_: en este ecosistema tech, todos podemos coexistir y aprender si sabemos orquestar las herramientas correctas (incluso con el apoyo de la IA) para crear soluciones reales.
+Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano lleno de grandes reptiles, mi fuerte no es la fuerza bruta del código puro, sino la **creatividad, la adaptabilidad y el diseño de soluciones elegantes**.
 
 - 🔭 Trabajando actualmente en: **Databunker V3.1.0** (Gestión empresarial fortificada)
 - 🌱 Explorando: **Arquitecturas con FastAPI, Django y Svelte.**
@@ -67,7 +67,7 @@ Sistema Help Desk empresarial fortificado. Mi enfoque aquí fue la **implantaci�
 
 ### 🚦 [Rotonda Inteligente (ESP32 + WebSockets)](https://github.com/Espectro30/Rotonda-Inteligente-10-Semaforos)
 
-Proyecto final de Circuitos Lógicos. Un controlador de tráfico simulado en hardware virtual. Programado en **C++ (ESP32)** como máquina de estados síncrona y conectado en tiempo real a un simulador web con físicas de vehículos usando **Vanilla JS y Canvas**.
+Proyecto final de Circuitos Lógicos. Un controlador de tráfico simulado en hardware virtual. Programado en **C++ (ESP32)** como máquina de estados síncrona y conectado en tiempo real a un simulador web.
 
 ### 🎓 AulaLink™
 
@@ -84,11 +84,11 @@ Mi proyecto para Lenguaje de Programación 2. Una plataforma de gestión para cl
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Espectro30&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Espectro30&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff&count_private=true" alt="GitHub Stats" />
   </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espectro30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f59e0b&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espectro30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f59e0b&text_color=ffffff&count_private=true" alt="Top Languages" />
   </a>
 
 </div>
@@ -96,7 +96,7 @@ Mi proyecto para Lenguaje de Programación 2. Una plataforma de gestión para cl
 <br/>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ5bHN6b3NuMG95a2k2aHQ5bThveDFkbHIxejV2MTJqenEwYmNrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TGzy9VFLdWMHMmMo0x/giphy.gif" width="50" alt="Gecko Mascot" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ5bHN6b3NuMG95a2k2aHQ5bThveDFkbHIxejV2MTJqenEwYmNrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TGzy9VFLdWMHMmMo0x/giphy.gif" width="50" alt="Gecko" />
   <br/>
   <sub><i>"Solo un Gecko navegando en el pantano..."</i></sub>
 </div>
