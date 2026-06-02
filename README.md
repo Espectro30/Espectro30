@@ -16,7 +16,7 @@
 
 ## 🦎 Sobre mí: El Gecko en el Pantano
 
-Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano lleno de grandes reptiles, mi fuerte no es la fuerza bruta del código puro, sino la **creatividad, la adaptabilidad y el diseño de soluciones elegantes**.
+Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano lleno de grandes reptiles, mi fuerte no es la fuerza bruta del código puro, sino la **creatividad, la adaptabilidad y el diseño**. Creo fielmente en la _"Tregua del Agua"_: en este ecosistema tech, todos podemos coexistir y aprender si sabemos orquestar las herramientas correctas (incluso con el apoyo de la IA) para crear soluciones reales.
 
 - 🔭 Trabajando actualmente en: **Databunker V3.1.0** (Gestión empresarial fortificada)
 - 🌱 Explorando: **Arquitecturas con FastAPI, Django y Svelte.**
@@ -67,11 +67,11 @@ Sistema Help Desk empresarial fortificado. Mi enfoque aquí fue la **implantaci�
 
 ### 🚦 [Rotonda Inteligente (ESP32 + WebSockets)](https://github.com/Espectro30/Rotonda-Inteligente-10-Semaforos)
 
-Proyecto final de Circuitos Lógicos. Un controlador de tráfico simulado en hardware virtual. Programado en **C++ (ESP32)** como máquina de estados síncrona y conectado en tiempo real a un simulador web.
+Tarea de Simulación de la materia Circuitos Lógicos. Un controlador de tráfico simulado en hardware virtual. Programado en **C++ (ESP32)** como máquina de estados síncrona y conectado en tiempo real a un simulador web.
 
 ### 🎓 AulaLink™
 
-Un sistema de gestión académica y control de acceso (Circuitos Lógicos) nacido de la necesidad de organizar el flujo estudiantil. Creado con **FastAPI, Svelte y SQLite**.
+Proyecto final de Circuitos Lógicos. Un sistema de gestión académica y control de acceso nacido de la necesidad de organizar el flujo estudiantil. Creado con **FastAPI, Svelte y SQLite**.
 
 ### 🌸 GlowCare
 
