@@ -16,7 +16,7 @@
 
 ## 🦎 Sobre mí: El Gecko en el Pantano
 
-Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano lleno de grandes reptiles, mi fuerte no es la fuerza bruta del código puro, sino la **creatividad, la adaptabilidad y el pensamiento lateral**.
+Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano lleno de grandes reptiles, mi fuerte no es la fuerza bruta del código puro, sino la **creatividad, la adaptabilidad y el diseño**. Creo fielmente en la _"Tregua del Agua"_: en este ecosistema tech, todos podemos coexistir y aprender si sabemos orquestar las herramientas correctas (incluso con el apoyo de la IA) para crear soluciones reales.
 
 - 🔭 Trabajando actualmente en: **DataBunker-WebApp_PHP** (Gestión empresarial fortificada)
 - 🌱 Explorando: **Arquitecturas con FastAPI, Django y Svelte.**
