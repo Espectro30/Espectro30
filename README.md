@@ -65,6 +65,10 @@ Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano 
 
 Sistema Help Desk empresarial fortificado. Mi enfoque aquí fue la **implantación de sistemas**, logrando un entorno seguro siguiendo estándares OWASP y despliegue con Docker.
 
+### 🚦 [Rotonda Inteligente (ESP32 + WebSockets)](https://github.com/Espectro30/Rotonda-Inteligente-10-Semaforos)
+
+Proyecto final de Circuitos Lógicos. Un controlador de tráfico simulado en hardware virtual. Programado en **C++ (ESP32)** como máquina de estados síncrona y conectado en tiempo real a un simulador web con físicas de vehículos usando **Vanilla JS y Canvas**.
+
 ### 🎓 AulaLink™
 
 Un sistema de gestión académica y control de acceso (Circuitos Lógicos) nacido de la necesidad de organizar el flujo estudiantil. Creado con **FastAPI, Svelte y SQLite**.
