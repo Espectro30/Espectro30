@@ -25,7 +25,7 @@ Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano 
 
 ---
 
-## 🛠️ Mi Arsenal (Tech Stack)
+## 🛠️ Mi Caja de Herramientas (Tech Stack)
 
 <div align="center">
 
