@@ -61,7 +61,7 @@ Me considero un navegante del ingenio. Como un pequeño **Gecko** en un pantano 
 
 ## 🚀 Proyectos en Desarrollo
 
-### 🛡️ [DataBunker-WebApp_PHP]()
+### 🛡️ DataBunker-WebApp_PHP
 
 Sistema Help Desk empresarial fortificado. Mi enfoque aquí fue la **implantación de sistemas**, logrando un entorno seguro siguiendo estándares OWASP y despliegue con Docker.
 
@@ -73,7 +73,7 @@ Tarea de Simulación de la materia Circuitos Lógicos. Un controlador de tráfic
 
 Proyecto final de Circuitos Lógicos. Un sistema de gestión académica y control de acceso nacido de la necesidad de organizar el flujo estudiantil. Creado con **FastAPI, Svelte y SQLite**.
 
-### 🌸 [GlowCare_Cosmeatria](https://github.com/Espectro30/Espectro30.git)
+### 🌸 [GlowCare_Cosmeatria](https://github.com/Espectro30/GlowCare_Cosmeatria.git)
 
 Mi proyecto para Lenguaje de Programación 2. Una plataforma de gestión para clínicas estéticas que utiliza **Django, React 19 y SQLite**, enfocada en una experiencia de usuario (UX) limpia y profesional.
 
